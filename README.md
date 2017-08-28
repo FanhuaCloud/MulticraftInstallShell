@@ -5,5 +5,5 @@
 - 完全免费
 
 
-> 安装方法
+> 安装方法  
 `bash -c "$(curl -sS https://code.aliyun.com/h7190819/Shell-BBR/raw/master/BBR_Install.sh)"`
