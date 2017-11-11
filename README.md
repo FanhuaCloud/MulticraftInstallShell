@@ -5,4 +5,4 @@
 - 完全免费
 
 > 安装方法  
-`bash -c "$(curl -sS https://code.aliyun.com/h7190819/MulticraftInstallShell/raw/master/install.sh)"`
+`bash -c "$(curl -sS https://raw.githubusercontent.com/1157173310/MulticraftInstallShell/master/install.sh)"`
